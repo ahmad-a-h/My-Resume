@@ -1,0 +1,33 @@
+html{
+    background: whitesmoke;
+}
+.left-contaier
+{
+    width: 50%;
+    
+}
+.display-container
+{
+    background: #00134d;
+    margin: 5px;
+    border-radius: 15px;
+    padding: 4px 4px 4px 4px;
+    width: 50%;
+    border: 1px solid black;
+}
+i
+{
+    padding: 4px;
+    color:#e6ac00 ;
+}
+.info,.title,.skills
+{
+    font-weight:lighter;
+    color: grey;
+}
+.foot
+{
+    width: 100%;
+    height: 25%;
+    background:#e6ac00 ;
+}
